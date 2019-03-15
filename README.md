@@ -11,5 +11,3 @@
 ![](web-customer-tracker-workflow-images/search%202.PNG)
 
 ![](web-customer-tracker-workflow-images/update%20page.PNG)
-
-![](web-customer-tracker-workflow-images/web-customer-tracker%20STRUCTURE.PNG)
